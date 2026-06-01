@@ -21,5 +21,16 @@ Analyze the Titanic dataset to identify factors that influenced passenger surviv
 - Correlation Heatmap
 - Survival Rate by Family Size
 
+## Files
+
+* `titanic_analysis.ipynb` – Complete analysis notebook
+* `README.md` – Project documentation
+* `Screenshots` - Important charts
+  
 ## Note
-GitHub may not render all notebook outputs exactly as shown in Google Colab. For the complete experience, open the notebook in Colab.
+
+GitHub may occasionally display a notebook rendering error (`nbformat/nbconvert`). The notebook executes correctly in Google Colab and VS Code with outputs preserved.
+
+## Author
+
+Jami Tharun
