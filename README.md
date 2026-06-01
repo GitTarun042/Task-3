@@ -23,7 +23,7 @@ Analyze the Titanic dataset to identify factors that influenced passenger surviv
 
 ## Files
 
-* `titanic_analysis.ipynb` – Complete analysis notebook
+* `titanic_dataset_EDA.ipynb` – Complete analysis notebook
 * `README.md` – Project documentation
 * `Screenshots` - Important charts
   
